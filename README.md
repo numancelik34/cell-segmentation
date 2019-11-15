@@ -16,6 +16,8 @@ Annotated image after cell_annot.py implementation:
 
 3- Finally we are ready to predict any microscopic images to do cell segmentation process at the end!
 
+Predicted cell-segmented microscopic image:
+![alt text](https://github.com/numancelik34/cell-segmentation/blob/master/unet/predicted3_train.png)
 
 
 Hope this can help there in computer vision projects!
